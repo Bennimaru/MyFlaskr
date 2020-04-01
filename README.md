@@ -8,4 +8,5 @@ Third goal: Authorization blueprint
 Fourth goal: Create templates for render template function
 Fifth goal: Add basic styling
 Sixth goal: Blog blueprint
-Seventh goal: Making the project installable elsewhere
+Seventh goal: Making the project installable elsewhere. Setup and manifest files included.
+Eight goal: Include testing coverage. Dummy data setup. Tests for authorization and blog feature.
